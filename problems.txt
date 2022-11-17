@@ -1,0 +1,15 @@
+1. https://www.youtube.com/watch?v=CWbO9tf1iGk&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=71
+
+== and .eaquals()
+
+2. https://www.youtube.com/watch?v=biu3d5cGPV4&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=73
+
+array.trim() ei method frst r last er shokol space remove korbe but majher ta remove korbe na
+
+3. https://www.youtube.com/watch?v=qF1mJhqlYqw&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=75
+
+string = change kora jabena, string buffer = change kora jabe
+
+4. https://www.youtube.com/watch?v=o0tP_aebqOk&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=78
+
+wrapper class, unboxing
